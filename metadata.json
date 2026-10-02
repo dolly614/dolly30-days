@@ -1,0 +1,6 @@
+{
+  "name": "Uyanix 30 Days Challenge",
+  "description": "India's biggest 30-day daily learning competition for Class 1–12 students. Seekho, Compete Karo, Jeeto! Free registration, daily chapters, quizzes, live leaderboard, teacher referral portal, and admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
